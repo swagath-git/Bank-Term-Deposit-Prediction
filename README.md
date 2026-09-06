@@ -1,5 +1,5 @@
 
-# 🧠 Machine Learning Projects — Skillfied Mentor Internship
+# Machine Learning Projects — Skillfied Mentor Internship
 
 > Projects completed during my Data Science & Machine Learning internship at **Skillfied Mentor**.  
 > This repository contains end-to-end ML pipelines covering EDA, preprocessing, modeling, and evaluation.
@@ -12,7 +12,7 @@
 ## Overview
 Analysis of a bank's telemarketing campaign dataset to understand customer behavior and predict whether a client will subscribe to a **term deposit**.
 
-### 📊 Dataset
+### Dataset
 | Property | Value |
 |----------|-------|
 | Rows | 41,188 |
@@ -119,7 +119,7 @@ scikit-learn (LogisticRegression, LabelEncoder, StandardScaler, train_test_split
 
 ---
 
-## 📄 License
+## License
 
 This repository is for educational and portfolio purposes only.  
 Datasets are used solely for learning and non-commercial analysis.
